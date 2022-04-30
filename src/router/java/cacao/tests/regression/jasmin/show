@@ -1,6 +1,0 @@
-#!/bin/sh
-
-LOG="$1"
-
-cat "$LOG" | sed -n '/^test_.*\.main/,$p' | sed -n '/=== L002 ===/,$d ; /=== L001 ===/,$p' | sed '/^===/d'
-

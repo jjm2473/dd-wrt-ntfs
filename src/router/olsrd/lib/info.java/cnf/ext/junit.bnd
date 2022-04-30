@@ -1,6 +1,0 @@
-junit: \
-  junit;version=latest, \
-  org.hamcrest;version=latest
-
-test-reports: \
-  test-results

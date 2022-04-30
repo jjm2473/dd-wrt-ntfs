@@ -1,2 +1,0 @@
-assert(project != rootProject   )
-assert(hasProperty('bndProject'))

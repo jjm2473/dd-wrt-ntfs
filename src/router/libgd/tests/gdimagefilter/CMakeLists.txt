@@ -1,5 +1,0 @@
-SET(TESTS_FILES
-	gdCopyBlurred
-)
-
-ADD_GD_TESTS()

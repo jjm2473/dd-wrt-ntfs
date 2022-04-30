@@ -1,2 +1,0 @@
-pvresize resizes a PV. The PV may already be in a VG and may have active
-LVs allocated on it.

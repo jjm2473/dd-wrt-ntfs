@@ -1,3 +1,0 @@
-#!/bin/sh
-/sbin/hotplug2 --set-rules-file /etc/hotplug2.rules --no-persistent --set-coldplug-cmd /sbin/udevtrigger
-/sbin/hotplug2 --set-rules-file /etc/hotplug2.rules --persistent &

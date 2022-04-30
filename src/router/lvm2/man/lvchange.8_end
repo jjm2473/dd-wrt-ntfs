@@ -1,4 +1,0 @@
-.SH EXAMPLES
-Change LV permission to read-only:
-.sp
-.B lvchange -pr vg00/lvol1

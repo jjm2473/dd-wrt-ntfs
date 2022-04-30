@@ -1,6 +1,0 @@
-SET(TESTS_FILES
-	bug00208_1
-	bug00208_2
-)
-
-ADD_GD_TESTS()

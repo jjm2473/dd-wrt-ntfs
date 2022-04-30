@@ -1,2 +1,0 @@
-User-Name = bob
-Cleartext-Password = hello

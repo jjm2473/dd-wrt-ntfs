@@ -1,3 +1,0 @@
-If you want to compile it in cross environment.
-Please try the following :
-	#./configure CC=arm-none-linux-gnueabi-gcc --host=arm-none-linux-gnueabi-gcc

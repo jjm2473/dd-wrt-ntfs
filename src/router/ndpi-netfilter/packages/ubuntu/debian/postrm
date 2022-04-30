@@ -1,7 +1,0 @@
-#!/bin/sh -e
-
-set -e
-
-/sbin/ldconfig
-
-exit 0

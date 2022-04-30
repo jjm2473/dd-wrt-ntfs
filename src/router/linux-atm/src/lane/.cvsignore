@@ -1,9 +1,0 @@
-Makefile
-Makefile.in
-.deps
-.libs
-bus
-lecs
-lecs_db.c
-les
-load_lex.c

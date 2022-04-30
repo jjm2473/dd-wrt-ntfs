@@ -1,7 +1,0 @@
-*.swp
-*.d
-*.o
-*.a
-/apfsck/apfsck
-/mkapfs/mkapfs
-/tags

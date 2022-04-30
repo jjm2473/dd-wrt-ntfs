@@ -1,3 +1,0 @@
-Tests: yanglint
-Depends: gzip,
-         libyang2-tools

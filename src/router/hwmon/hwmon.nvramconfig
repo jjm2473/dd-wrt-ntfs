@@ -1,2 +1,0 @@
- "hwmon_temp_max"   "HWMon Maximum"   "NULL" "FALSE" "0"
- "hwmon_temp_hyst"  "HWMon Hysteresis"  "NULL" "FALSE" "0"

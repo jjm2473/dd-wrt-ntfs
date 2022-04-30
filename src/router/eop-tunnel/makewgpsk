@@ -1,3 +1,0 @@
-#!/bin/sh
-mkdir -p /tmp/wireguard
-nvram set oet$1_psk$2=$(wg genpsk)

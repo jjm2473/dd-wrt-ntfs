@@ -1,8 +1,0 @@
-module d00000000 {
-	namespace "n";
-    prefix d;
-    leaf l1 {
-        type string;
-        when "/l0{k='when']";
-    }
-}

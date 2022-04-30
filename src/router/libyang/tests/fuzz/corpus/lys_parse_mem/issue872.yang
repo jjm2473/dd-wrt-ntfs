@@ -1,7 +1,0 @@
-module d{
-namespace "";prefix d;
-	leaf f{
-		type w0iiiiiiiiiiiiiiiiiiiiiiiiiiiii0000;
-		default "";
-	}
-}

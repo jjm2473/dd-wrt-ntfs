@@ -1,4 +1,0 @@
-# <interface> <parent> <options>
-eth0			<none>			max=10mbit,desc=LAN
-lo			<none>			max=10gbit,desc=loopback
-q:pfifo_fast		eth0			txmax=100mbit

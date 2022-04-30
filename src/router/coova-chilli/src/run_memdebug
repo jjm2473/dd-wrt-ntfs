@@ -1,2 +1,0 @@
-export MALLOC_TRACE=mtrace_test.log
-./chilli --fg --debug
